@@ -1,6 +1,6 @@
 # Vehicle-Counting-System
 
-https://github.com/mazhar18941/Vehicle-Counting-System/assets/61585909/95f31a81-0144-4a50-9dac-b197b0d2416a
+![Video](https://github.com/mazhar18941/Vehicle-Counting-System/assets/61585909/4d3f0375-bd0f-4658-81a5-ba27c6cac7bc)
 
 ### Steps to run Code
 - Clone the repository.
